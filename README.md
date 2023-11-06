@@ -1,4 +1,4 @@
-[![Header](https://github.com/RandyCheBro/RandyCheBro/blob/main/assets/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)]
+[![Header](https://github.com/RandyCheBro/RandyCheBro/blob/main/assets/86df55748667be45e1a0c5b40851f3ae.jpg)]
 
 About me
 
