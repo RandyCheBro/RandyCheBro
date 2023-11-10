@@ -9,10 +9,10 @@
 ## 📱 Связь со мной:
 <div>
   <a href="https://t.me/@Yxx_Tbl">
-  <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" title="telegram" alt="telegram" width="90" height="40">
+  <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" title="telegram" alt="telegram" width="90" height="45">
   </a>
   <a href="https://discordapp.com/users/404498351934144524/">
-  <img src="https://raw.githubusercontent.com/RandyCheBro/imgs-for-README/9a2f34b5861dec543da43e5fab968a81dbabfd1b/discord-mark-blue%201.svg" title="discord" alt="discord" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/RandyCheBro/imgs-for-README/9a2f34b5861dec543da43e5fab968a81dbabfd1b/discord-mark-blue%201.svg" title="discord" alt="discord" width="40" height="45">
   </a>
 </div>
 
