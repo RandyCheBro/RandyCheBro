@@ -8,8 +8,7 @@
 
 ## 📱 Связь со мной:
 <div>
-[data-a11y-link-underlines=false]
-  <a href="https://t.me/@Yxx_Tbl">
+  <a href="https://t.me/@Yxx_Tbl" text-decoration="none">
   <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon-60@3x.png?raw=true" title="telegram" alt="telegram" width="40" height="40">
   </a>&nbsp;
   <a href="https://discordapp.com/users/404498351934144524/">
