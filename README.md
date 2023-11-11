@@ -8,10 +8,10 @@
 
 ## 📱 Связь со мной:
 <div>
-  <a href="https://t.me/@Yxx_Tbl" text-decoration="none">
+  <a href="https://t.me/@Yxx_Tbl" text-decoration="none" target="_blank" rel="noreferrer">
   <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon-60@3x.png?raw=true" title="telegram" alt="telegram" width="40" height="40">
   </a>&nbsp;
-  <a href="https://discordapp.com/users/404498351934144524/">
+  <a href="https://discordapp.com/users/404498351934144524/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/RandyCheBro/imgs-for-README/9a2f34b5861dec543da43e5fab968a81dbabfd1b/discord-mark-blue%201.svg" title="discord" alt="discord" width="40" height="40">
   </a>
 </div>
@@ -48,21 +48,21 @@
 ## 📁 Мои проекты:
 <div>
   <div>
-    <a href="https://github.com/RandyCheBro/react-mesto-api-full-gha.git">
+    <a href="https://github.com/RandyCheBro/react-mesto-api-full-gha.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/react-mesto-api-full-gha%201.png?raw=true" width="230" height="170"> 
     </a>&nbsp;
-    <a href="https://github.com/RandyCheBro/mesto.git">
+    <a href="https://github.com/RandyCheBro/mesto.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/mesto.png?raw=true" width="230" height="170">
     </a>&nbsp;
   </div>
   <div>
-    <a href="https://github.com/RandyCheBro/russian-travel.git">
+    <a href="https://github.com/RandyCheBro/russian-travel.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/russian%20trevel1.png?raw=true" width="230" height="170">
     </a>&nbsp;
-    <a href="https://github.com/RandyCheBro/how-to-learn.git">
+    <a href="https://github.com/RandyCheBro/how-to-learn.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/howtolearn.png?raw=true" width="230" height="170">
     </a>&nbsp;
-    <a href="https://github.com/RandyCheBro/movies-explorer-frontend.git">
+    <a href="https://github.com/RandyCheBro/movies-explorer-frontend.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/movie-explorer%201.png?raw=true" width="230" height="170">
     </a>
   </div>
