@@ -9,7 +9,7 @@
 ## 📱 Связь со мной:
 <div>
   <a href="https://t.me/@Yxx_Tbl" text-decoration-color="rgba(0, 0, 0, 0)">
-  <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon-60@3x.png?raw=true" title="telegram" alt="telegram" width="40" height="40" text-decoration="none">
+  <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon-60@3x.png?raw=true" title="telegram" alt="telegram" width="40" height="40">
   </a>&nbsp
   <a href="https://discordapp.com/users/404498351934144524/">
   <img src="https://raw.githubusercontent.com/RandyCheBro/imgs-for-README/9a2f34b5861dec543da43e5fab968a81dbabfd1b/discord-mark-blue%201.svg" title="discord" alt="discord" width="40" height="40">
