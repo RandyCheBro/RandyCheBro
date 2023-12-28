@@ -52,6 +52,9 @@
     <a href="https://github.com/RandyCheBro/react-mesto-api-full-gha.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/react-mesto-api-full-gha%201.png?raw=true" width="230" height="170"> 
     </a>&nbsp;
+    <a href="https://github.com/RandyCheBro/react-sneakers.git" target="_blank" rel="noreferrer">
+      <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/react-sneaker.png?raw=true" width="230" height="170"> 
+    </a>&nbsp;
     <a href="https://github.com/RandyCheBro/mesto.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/mesto.png?raw=true" width="230" height="170">
     </a>&nbsp;
