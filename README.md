@@ -68,6 +68,9 @@
     </a>&nbsp;
     <a href="https://github.com/RandyCheBro/movies-explorer-frontend.git" target="_blank" rel="noreferrer">
       <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/movie-explorer%201.png?raw=true" width="230" height="170">
+    </a>&nbsp;
+    <a href="https://github.com/RandyCheBro/react-pizza.git" target="_blank" rel="noreferrer">
+      <img src="https://github.com/RandyCheBro/imgs-for-README/blob/main/react-pizza.png" width="230" height="170">
     </a>
   </div>
 </div>
